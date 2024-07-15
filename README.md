@@ -1,3 +1,3 @@
 # MMS-Proxy-Service
 
-https://minecraftserver.youtrack.cloud/dashboard
+https://magenta-mause.youtrack.cloud/dashboard
