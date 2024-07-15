@@ -6,7 +6,6 @@ on:
     branches: # Specify your branches here
       - '**'
 
-version: 1.0
 jobs:
   qodana:
     runs-on: ubuntu-latest
